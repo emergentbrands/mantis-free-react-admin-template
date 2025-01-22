@@ -7,9 +7,9 @@
     "name": "CodedThemes",
     "email": "codedthemes@gmail.com",
     "url": "https://codedthemes.com/"
-    yarn add @mui/material @emotion/react @emotion/styled
-    yarn add @vercel/speed-insights
   },
+  yarn add @mui/material @emotion/react @emotion/styled
+  yarn add @vercel/speed-insights
   "scripts": {
     "start": "vite",
     "build": "vite build",
