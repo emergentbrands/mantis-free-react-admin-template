@@ -33,8 +33,8 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-yarn add @mui/material @emotion/react @emotion/styled
-yarn add @vercel/speed-insights
+yarn add @mui/material @emotion/react @emotion/styled;
+yarn add @vercel/speed-insights;
 
 // ==============================|| MAIN - REACT DOM RENDER ||============================== //
 
